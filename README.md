@@ -1,2 +1,1 @@
-# SampleJavaWithJenkins
-This is simple java program and this Git Repository Integrated with Jenkins Build Job
+# Java Programs for Interview
